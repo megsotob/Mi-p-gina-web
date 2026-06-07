@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://github.com/megsotob/Mi-p-gina-web/sitemap.xml
+
+Sitemap: https://megsotob.github.io/sitemap.xml
